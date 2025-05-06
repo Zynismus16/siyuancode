@@ -1,5 +1,5 @@
 // 全局设置笔记本ID - 需要根据实际情况修改
-const targetBoxID = "20250504014556-yhxfxy7"; // 这里设置需要特殊处理的笔记本ID
+const targetBoxID = ""; // 这里设置需要特殊处理的笔记本ID
 
 // 保存原始的fetch方法
 const originalFetch = window.fetch;
